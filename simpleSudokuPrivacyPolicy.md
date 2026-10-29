@@ -27,7 +27,9 @@ The Service does not use third-party services that may collect information used 
 
 ## 4. Security of Data
 
-The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. Since we do not collect or store your data on our servers, your data remains as secure as your mobile device.
+The Service operates exclusively with local data storage, the security of your information is protected by the security measures implemented on your mobile device's operating system. 
+
+We do not transmit data over the internet; therefore, the risks associated with data interception during transmission are not applicable to this Service. We recommend that you maintain the latest security updates for your device to ensure the integrity of locally stored data.
 
 ## 5. Children's Privacy
 
