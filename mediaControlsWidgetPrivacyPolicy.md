@@ -21,7 +21,7 @@ The Service uses the Notification Listener Service to detect active media sessio
 
 • Provide playback controls (Play/Pause, Next, Previous).
 
-Important: This data is processed locally on your device in real-time. It is used solely to populate the widget UI and is not stored permanently, uploaded to any servers, or shared with third parties.
+**Important**: This data is processed locally on your device in real-time. It is used solely to populate the widget UI and is not stored permanently, uploaded to any servers, or shared with third parties.
 
 ### Package Information
 
